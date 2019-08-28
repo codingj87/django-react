@@ -12,3 +12,4 @@ class Post(models.Model):
         return self.title
 
 #EOF
+# master 에서 수정
