@@ -15,3 +15,4 @@ class DetailPost(generics.RetrieveUpdateDestroyAPIView):
     serializer_class = PostSerializer
 
 # push test
+# one more
