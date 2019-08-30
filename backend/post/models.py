@@ -12,14 +12,3 @@ class Post(models.Model):
         return self.title
 
 #EOF
-# master 에서 수정
-# 한번 더 수정
-# 수정
-# Rebase Test 3
-# Rebase Test 4
-# Rebase Test 5
-# Rebase Test 6
-# Rebase Test 7
-# Rebase Test 8
-# Rebase Test 9
-# Rebase Test 10
