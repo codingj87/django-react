@@ -1,0 +1,3 @@
+[submodule "instagram-project"]
+	path = instagram-project
+	url = https://github.com/codingj87/instagram-project.git
