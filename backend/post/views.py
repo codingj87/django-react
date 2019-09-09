@@ -17,3 +17,4 @@ class DetailPost(generics.RetrieveUpdateDestroyAPIView):
 
 # test
 # 영희
+# test
